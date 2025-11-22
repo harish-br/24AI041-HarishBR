@@ -1,4 +1,4 @@
--Sign in to the n8n workflow.
+## Sign in to the n8n workflow.
 -	Create a new n8n account or log in to your existing one.
 -	On the personal home screen, choose the “Create Workflow” option.
 -	Select “On Form Submission” or any other trigger you want for your workflow.
@@ -6,6 +6,6 @@
 -	Execute the workflow.
 -	The workflow will run and show the final output.
 
-# Screenshots:
+## Attachments:
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/dba7bfc9-e8aa-4fa8-9f37-5c5a27c3449c" />
 
